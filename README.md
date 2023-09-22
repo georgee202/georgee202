@@ -50,7 +50,7 @@
 <tr>
       <td><a href="https://stepik.org/course/63054/syllabus"><b>Interactive SQL Simulator</b></a></td>
       <td><a href="https://welcome.stepik.org"><b>Stepik</b></a></td>
-      <td><<b>2023</b></a></td>
+      <td><<b> 2023 </b></a></td>
 </tr>    
 <tr>
       <td><a href="https://practicum.yandex.ru/excel-for-work-full/"><b>Excel for work</b></a></td>
