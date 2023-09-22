@@ -28,13 +28,15 @@
 <p align="left"> <a href="https://www.github.com/georgee202" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /> </picture> </a> <a href="https://vk.com/grigoriybatya" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/></a>
 </p>
 
-<br><br>
-<h3>My Repositories</h3>
+---
+
+### Courses
 
 <table width=100%>
   <thead align="center">
     <tr border: none;>
       <td><b>📚 Course name</b></td>
+      <td><b>🌱 Platform</b></td>
       <td><b>⭐ Year</b></td>
     </tr>
   </thead>
@@ -46,28 +48,28 @@
       <td><a href="https://github.com/akylson/Terraform_Projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/Terraform_Projects?style=flat-square&labelColor=343b41"/></a></td>
 </tr>  
 <tr>
-      <td><a href="https://github.com/akylson/Terraform_Projects"><b>Terraform AWS Projects</b></a></td>
-      <td><a href="https://github.com/akylson/Terraform_Projects"><b>Stepik</b></a></td>
-      <td><a href="https://github.com/akylson/Terraform_Projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/Terraform_Projects?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://stepik.org/course/63054/syllabus"><b>Interactive SQL Simulator</b></a></td>
+      <td><a href="https://welcome.stepik.org"><b>Stepik</b></a></td>
+      <td><<b>2023</b></a></td>
 </tr>    
 <tr>
-      <td><a href="https://github.com/akylson/iris-prediction-with-django"><b>Excel for work</b></a></td>
-      <td><a href="https://github.com/akylson/Terraform_Projects"><b>Yandex.Praktikum</b></a></td>
+      <td><a href="https://practicum.yandex.ru/excel-for-work-full/"><b>Excel for work</b></a></td>
+      <td><a href="https://practicum.yandex.ru/"><b>Yandex.Praktikum</b></a></td>
       <td><a href="https://github.com/akylson/iris-prediction-with-django/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/iris-prediction-with-django?style=flat-square&labelColor=343b41"/></a></td>
 </tr>
 <tr>
-      <td><a href="https://github.com/akylson/real-time-sign-language-detection"><b>Basics of statistics</b></a></td>
-      <td><a href="https://github.com/akylson/Terraform_Projects"><b>Stepik</b></a></td>
+      <td><a href="https://stepik.org/course/76/syllabus"><b>Basics of statistics</b></a></td>
+      <td><a href="https://welcome.stepik.org"><b>Stepik</b></a></td>
       <td><a href="https://github.com/akylson/real-time-sign-language-detection/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/real-time-sign-language-detection?style=flat-square&labelColor=343b41"/></a></td>
 </tr>
 <tr>
-      <td><a href="https://github.com/akylson/simple_face_detection"><b>Programing for Everybody (Python)</b></a></td>
-      <td><a href="https://github.com/akylson/Terraform_Projects"><b>Coursera</b></a></td>
+      <td><a href="https://www.coursera.org/learn/python?"><b>Programing for Everybody (Python)</b></a></td>
+      <td><a href="https://www.coursera.org/"><b>Coursera</b></a></td>
       <td><a href="https://github.com/akylson/simple_face_detection/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/simple_face_detection?style=flat-square&labelColor=343b41"/></a></td>
 </tr>	  
     <tr>
-      <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects"><b>Python Generation</b></a></td>
-      <td><a href="https://github.com/akylson/Terraform_Projects"><b>Stepik</b></a></td>
+      <td><a href="https://stepik.org/course/58852/syllabus"><b>Python Generation</b></a></td>
+      <td><a href="https://welcome.stepik.org"><b>Stepik</b></a></td>
       <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/yandex-praktikum-data-science-projects?style=flat-square&labelColor=343b41"/></a></td>
     </tr>
   </tbody>
