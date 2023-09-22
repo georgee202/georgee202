@@ -8,8 +8,6 @@
 
 * ✉️  You can contact me at [qd.baklanov@yandex.ru](mailto:qd.baklanov@yandex.ru)
 
-* 🌱 I’m currently learning data analytics.
-
 * 📫 How to reach me on Telegram @Egir_bak.
 
 ---
