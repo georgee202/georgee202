@@ -45,32 +45,31 @@
 <tr> 
       <td><a href="https://practicum.yandex.ru/data-scientist"><b>Data Science</b></a></td>
       <td><a href="https://practicum.yandex.ru/"><b>Yandex.Praktikum</b></a></td>
-      <td><a href="https://github.com/akylson/Terraform_Projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/Terraform_Projects?style=flat-square&labelColor=343b41"/></a></td>
+      <td><b>2023</b></td>
 </tr>  
 <tr>
       <td><a href="https://stepik.org/course/63054/syllabus"><b>Interactive SQL Simulator</b></a></td>
       <td><a href="https://welcome.stepik.org"><b>Stepik</b></a></td>
-      <td><<b>2023</b></td>
+      <td><b>2023</b></td>
 </tr>    
 <tr>
       <td><a href="https://practicum.yandex.ru/excel-for-work-full/"><b>Excel for work</b></a></td>
       <td><a href="https://practicum.yandex.ru/"><b>Yandex.Praktikum</b></a></td>
-      <td><a href="https://github.com/akylson/iris-prediction-with-django/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/iris-prediction-with-django?style=flat-square&labelColor=343b41"/></a></td>
+      <td><b>2023</b></td>
 </tr>
 <tr>
       <td><a href="https://stepik.org/course/76/syllabus"><b>Basics of statistics</b></a></td>
       <td><a href="https://welcome.stepik.org"><b>Stepik</b></a></td>
-      <td><a href="https://github.com/akylson/real-time-sign-language-detection/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/real-time-sign-language-detection?style=flat-square&labelColor=343b41"/></a></td>
+      <td><b>2022</b></td>
 </tr>
 <tr>
       <td><a href="https://www.coursera.org/learn/python?"><b>Programing for Everybody (Python)</b></a></td>
       <td><a href="https://www.coursera.org/"><b>Coursera</b></a></td>
-      <td><a href="https://github.com/akylson/simple_face_detection/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/simple_face_detection?style=flat-square&labelColor=343b41"/></a></td>
-</tr>	  
+      <td><b>2022</b></td>
     <tr>
       <td><a href="https://stepik.org/course/58852/syllabus"><b>Python Generation</b></a></td>
       <td><a href="https://welcome.stepik.org"><b>Stepik</b></a></td>
-      <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/akylson/yandex-praktikum-data-science-projects?style=flat-square&labelColor=343b41"/></a></td>
+      <td><b>2021</b></td>
     </tr>
   </tbody>
 </table>
