@@ -2,11 +2,10 @@
 
 ### :man_technologist: About me:
 
-Я начинающий веб разработчик. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы, параллельно с этим я стал Старшим студентом на курсе и помогаю новичкам осваивать веб-разработку!
+I am studying at the Department of Engineering Cybernetics of NUST MISIS. I want to develop in the field of data analysis and Data Science. While studying at the university, I made a project of my own database with 10 tables. I combine with my studies courses in programming, Data Science, data analysis. Recently successfully completed the Yandex Practicum course in the specialty Data Science.
+In my free time I participate in volunteer activities. He served as a volunteer at the ICPC World Programming Championship finals, and was also a participant in this competition in 2020.
 
 * 🌍  I'm based in Moscow
-
-* 👀 I’m interested in Python, volunteering
 
 * ✉️  You can contact me at [qd.baklanov@yandex.ru](mailto:qd.baklanov@yandex.ru)
 
