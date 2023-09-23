@@ -2,8 +2,7 @@
 
 ### :man_technologist: About me:
 
-I am studying at the Department of Engineering Cybernetics of NUST MISIS. I want to develop in the field of data analysis and Data Science. While studying at the university, I made a project of my own database with 10 tables. I combine with my studies courses in programming, Data Science, data analysis. Recently successfully completed the Yandex Practicum course in the specialty Data Science.
-In my free time I participate in volunteer activities. He served as a volunteer at the ICPC World Programming Championship finals, and was also a participant in this competition in 2020.
+I am studying at the Department of Engineering Cybernetics at NUST MISIS. I want to develop in the field of data analysis and data science. While studying at the university, I made my own database with 10 tables. I combine my studies with courses in programming, data science, and data analysis. Recently, I successfully completed the Yandex Practicum course in the specialty of data science. In my free time, I participate in volunteer activities. I served as a volunteer at the ICPC World Programming Championship finals and was also a participant in this competition in 2020.
 
 * 🌍  I'm based in Moscow
 
